@@ -1,0 +1,41 @@
+span{
+    padding-left:17px;
+}
+.gamer{
+    text-align: center;
+}
+
+h2{
+    font-family: 'Verdana';
+    font-size: 35pt;
+    font-weight: bold;
+    color: #ff124f;
+}
+p{
+    color: #fe75fe;
+    font-family: 'Trebuchet MS';
+    font-size: 14pt;
+}
+body{
+    background-image: url(./cbp.jpg);
+    background-size: 100%;
+}
+
+#rez{
+    color: #ff00a0;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    font-family: 'Verdana';
+    background-color: #7a04eb;
+    color: white;
+    border: 1px solid #7a04eb; 
+    border-radius: 15px;
+}
+
+button:hover{
+    background-color: #120458;
+    border: 1px solid #120458; 
+}
